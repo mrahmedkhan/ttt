@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
-https://hls.streambtw.com/live/stream_1.m3u8
+https://play1nm.hnyongshun.cn/live/hd-zh-x7lm7phzkzpnm2w.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" ,Live Sports 2
-https://hls.streambtw.com/live/stream_2.m3u8
+https://playlist.nuum.ru/live/7347/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 3
 https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 4
