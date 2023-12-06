@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4oeiOm8jIVra-BADW9loQ3eg8mMjO2xy_g&usqp=CAU",Ban Vs NZ
+#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Ban Vs Nz
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
 https://bcovlive-a.akamaihd.net/8347a3d178144524aeffb86647083fee/ap-southeast-2/5833133821001/4819247c158b48f68618f1601c0e37a1/playlist_ssaiM.m3u8?nn=3575383436001&hdnea=st=1701835200~exp=1701849600~acl=/*~hmac=4da2d0fa1fa5bc39f2b28498cc37889d886c4ddced98d654bfc7e731b6ed1dd3
