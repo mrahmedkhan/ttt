@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4oeiOm8jIVra-BADW9loQ3eg8mMjO2xy_g&usqp=CAU",Ban Vs NZ
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" ,Live Sports 2
