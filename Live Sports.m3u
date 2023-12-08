@@ -25,6 +25,5 @@ http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
 http://142.54.172.138/premium35/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 12
 http://142.54.172.138/premium65/playlist.m3u8?ddd=Pl5NHMeCwA
-{ "logo": "https://styles.redditmedia.com/t5_7lcjum/styles/communityIcon_ffc2vbi3r86a1.png", "name": "Saudi Pro League", "link": "https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd", "origin": "", "referrer": "", "userAgent": "Chrome(Android)", "cookie": "", "drmScheme": "clearkey", "drmLicense": "e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1" },
-  [{ "logo": "https://styles.redditmedia.com/t5_7lcjum/styles/communityIcon_ffc2vbi3r86a1.png", "name": "Saudi Pro League", "link": "https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd", "origin": "", "referrer": "", "userAgent": "Chrome(Android)", "cookie": "", "drmScheme": "clearkey", "drmLicense": "e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1" }],
+[{ "logo": "https://styles.redditmedia.com/t5_7lcjum/styles/communityIcon_ffc2vbi3r86a1.png", "name": "Saudi Pro League", "link": "https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd", "origin": "", "referrer": "", "userAgent": "Chrome(Android)", "cookie": "", "drmScheme": "clearkey", "drmLicense": "e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1" }],
   
