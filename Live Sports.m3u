@@ -4,7 +4,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/YC5pFGYm3O2dF64ULqXzUVHAAzp-PtYOqLiFPxNVmDe5nrtsA4j4ycYg1vOr15E18GtA7wvqlY8lGDOirE2jHg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" ,Live Sports 2
-https://hls.streambtw.com/live/stream_2.m3u8
+http://37.49.225.144/hls/s5.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 3
 https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 4
