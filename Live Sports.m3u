@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://cdn.daily-sun.com/public/news_images/2022/08/18/T-Sports_logo.jpg",T Sports HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/fTXJy47c0KvkNtUQ_8X7WI_0N8GEoJG-RG68xRZGdQKV-DCxHx8PFV9VMN7LSuT25KWiPyDwAvn-kAPaq-4bgA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" ,Live Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 3
