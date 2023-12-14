@@ -29,19 +29,19 @@ http://103.141.2.37:25461/live/web/web/587.m3u8
 http://103.141.2.37:25461/live/web/web/577.m3u8
 #EXTINF: -1 tvg-name="Star Sports3" tvg-logo="https://img.viewcineplex.com/images/starsports3.png" group-title="Sports", Star Sports3
 http://103.141.2.37:25461/live/web/web/578.m3u8
-#EXTINF: -1 tvg-name="Star Sports3" tvg-logo="https://img.viewcineplex.com/images/starsports3.png" group-title="Sports", Star Sports3
+#EXTINF: -1 tvg-name="Star Sports 3" tvg-logo="https://img.viewcineplex.com/images/starsports3.png" group-title="Sports", Star Sports3
 https://cdn8.aliflailabd.com/star-sports-3/tracks-v1a1/mono.m3u8?
-#EXTINF: -1 tvg-name="Star_Sports_1_HD" tvg-logo="http://10.11.12.13/img/Star_Sports_Select_1_HD.jpg" group-title="Sports", Star_Sports_1_HD
+#EXTINF: -1 tvg-name="Star Select 1 HD" tvg-logo="http://10.11.12.13/img/Star_Sports_Select_1_HD.jpg" group-title="Sports", Star_Sports_1_HD
 http://103.141.2.37:25461/live/web/web/579.m3u8
-#EXTINF: -1 tvg-name="Star_Sports_1_HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Star_Sports_1_HD FTP
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Star_Sports_1_HD FTP
 https://cdn8.aliflailabd.com/star-sports-1/tracks-v1a1/mono.m3u8?
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Ster Sports 1 HD
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Ster Sports 1 HD
 http://103.141.2.37:25461/live/web/web/580.m3u8
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Ster Sports 1 HD
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Ster Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF: -1 tvg-name="Ster Sport-2 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sport-2 HD
+#EXTINF: -1 tvg-name="Star Sport-2 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sport-2 HD
 http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/62584.ts
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sports 2 HD
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sports 2 HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sports 2 HD
 https://cdn8.aliflailabd.com/star-sports-2/index.m3u8?
@@ -58,10 +58,6 @@ http://103.141.2.37:25461/live/web/web/582.m3u8
 http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 
 #EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
@@ -70,23 +66,11 @@ https://cdn8.aliflailabd.com/GAZI/tracks-v2a1/mono.m3u8?
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 http://103.141.2.37:25461/live/web/web/586.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
-https://cdn.sajeeb.online/T-Sports-HD/mono.m3u8
-#EXTINF: -1 tvg-name="T Sports FHD" tvg-logo="https://i.ibb.co/TP0j34M/T-Sports-logo.png" group-title="Sports", T Sports FHD
-http://xtv.ooo:8080/live/12pmg/3344/167590.m3u8
+http://103.109.56.116/live/skyfeed1005/index.m3u8 
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
-#EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://www.kulfi.live/img/18.png" group-title="Sports", SPORTS 18
-http://103.141.2.37:25461/live/web/web/588.m3u8
-
 #EXTINF: -1 tvg-name="Super SPORTS" tvg-logo="http://www.kulfi.live/img/18.png" group-title="Sports", SUPER SPORTS 
 http://142.54.172.138/premium368/playlist.m3u8?ddd=Pl5NHMeCwA
-
-#EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://i.ibb.co/j47QV4x/tsports-1200x630px.png" group-title="Sports", T-SPORTS
-http://103.141.2.37:25461/live/web/web/618.m3u8
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
-http://51.159.59.244/dd_s_h_1/index.m3u8
