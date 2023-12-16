@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="https://cdn.daily-sun.com/public/news_images/2022/08/18/T-Sports_logo.jpg",T Sports HD
 http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-l-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD3W1k5oXcvGNCCOCD9z389Sn3wvcokc-Pw&usqp=CAU",Green Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" ,Live Sports 2
