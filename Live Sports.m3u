@@ -2,27 +2,27 @@
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2022%2F08%2F18%2FT-Sports_logo.jpg&w=1920&q=100",T Sports HD
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 1
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" ,Live Sports 2
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg" ,Live Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 3
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 3
 https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 4
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 4
 https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 5
+#EXTINF:-1 tvg-logo="https://dailypost.ng/wp-content/uploads/2020/05/premier-league.jpg",Live Sports 5
 https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 6
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/laliga-logo.jpg",Live Sports 6
 https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png"",Live Sports 7
+#EXTINF:-1 tvg-logo="https://www.soccerbible.com/media/93701/1-serie-a-logo-new.jpg",Live Sports 7
 https://hls.streambtw.com/live/stream_7.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 8
+#EXTINF:-1 tvg-logo="https://www.scisports.com/wp-content/uploads/2021/09/NeedForSpeed-SciSports-Edition-header-Ligue1-1280x720.jpg",Live Sports 8
 https://hls.streambtw.com/live/stream_8.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 9
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/3135979/screenshots/6278215/1-01_4x.jpg?resize=400x0",Live Cricket
 https://hls.streambtw.com/live/stream_e1.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 10
-https://hls.streambtw.com/live/stream_e2.m3u8
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 11
-http://142.54.172.138/premium35/playlist.m3u8?ddd=Pl5NHMeCwA
-#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png",Live Sports 12
-http://142.54.172.138/premium65/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Ten 1
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Ten 2
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist_w954570408_b596000.m3u8?nimblesessionid=2439968
